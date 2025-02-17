@@ -20,7 +20,7 @@
 
 ### 설치 방법
 
-1.  **Python 설치:** Python이 설치되어 있지 않다면, [Python 공식 웹사이트](https://www.python.org/)에서 최신 버전을 다운로드하여 설치합니다. 설치 시 "Add Python to PATH" 옵션을 반드시 선택하세요.
+1.  **Python 설치:** Python이 설치되어 있지 않다면, [Python 공식 웹사이트](https://www.python.org/)에서 최신 버전을 다운로드하여 설치합니다.
 2.  **저장소 복제:** GitHub 저장소를 복제합니다.
 
     ```bash
