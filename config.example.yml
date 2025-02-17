@@ -1,0 +1,11 @@
+cloudflare:
+  api_token: "YOUR_CLOUDFLARE_API_TOKEN"    # Cloudflare API 토큰
+  zone_id: "YOUR_ZONE_ID"    # Cloudflare Zone ID
+  record_name: "YOUR_DOMAIN"          # 업데이트할 DNS 레코드 이름
+
+ip_check:
+  api_url: "https://api.ip.pe.kr/"    # IP 주소 확인 API URL
+
+settings:
+  interval: 1800    # IP 주소 확인 간격 (초 단위, 기본값: 1800초 = 30분)
+  proxied: false    # Cloudflare 프록시 사용 여부 (true 또는 false)
